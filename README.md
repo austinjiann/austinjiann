@@ -1,6 +1,6 @@
 ### I'm Austin Jian
-I build cool things and post on social media  
-I'm Seeking summer 2026 internships
+* I build cool things and post on social media  
+* I'm Seeking summer 2026 internships
 
 ### I'm currently:
 * Studying computer science at the University of Waterloo  
