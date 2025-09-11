@@ -1,8 +1,11 @@
-## Austin Jian
+## I'm Austin Jian
 I build cool things and post about them
-Seeking summer 2026 internships
+I'm Seeking summer 2026 internships
 
-connect with me at: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
+Let's connect: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
+
+
+
 
 <!--
 **austinjiann/austinjiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
