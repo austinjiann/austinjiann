@@ -1,6 +1,6 @@
-## I build cool things and post about them
+I build cool things and post about them
 
-# links: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
+links: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
 
 cs @ university of waterloo
 
