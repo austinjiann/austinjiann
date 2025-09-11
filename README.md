@@ -1,8 +1,15 @@
-## I'm Austin Jian
-I build cool things and post about them  
+# I'm Austin Jian
+I build cool things and post on social media  
 I'm Seeking summer 2026 internships
 
-Let's connect: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
+# I'm currently:
+* Studying computer science at the University of Waterloo  
+* Building PlayCreate (4 million+ views on social media, 1000+ users)  
+  
+👇 learn more about my experiences 
+
+# Let's connect:
+[personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
 
 
 
