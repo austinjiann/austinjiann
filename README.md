@@ -1,17 +1,8 @@
+##Austin Jian
 I build cool things and post about them
+Seeking summer 2026 internships
 
-links: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
-
-cs @ university of waterloo
-
-cofounder @PlayCreate, swe @Go Place
-
-what I've done recently...
-
-• Building PlayCreate (4 million views)
-• SWE @Canadian Youth Champions
-• Won $1,500 at Hack the 6ix
-• Won first place and $1,000 at Hack404
+connect with me at: [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
 
 <!--
 **austinjiann/austinjiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
