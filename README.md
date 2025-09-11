@@ -6,7 +6,7 @@ I'm Seeking summer 2026 internships
 * Studying computer science at the University of Waterloo  
 * Building PlayCreate (4 million+ views on social media, 1000+ users)  
   
-👇 learn more about my experiences 
+👇 learn more about my past experiences 
 
 # Let's connect:
 [personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
