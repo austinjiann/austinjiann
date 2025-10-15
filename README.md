@@ -4,7 +4,7 @@
 
 ### I'm currently:
 * Studying computer science at the University of Waterloo  
-* Building PlayCreate (7 million+ views on social media, 1000+ users, partnered with 4 basketball clubs)  
+* Building PlayCreate (8 million+ views on social media, 1000+ users, partnered with 4 basketball clubs)  
   
 👇 learn more about my past experiences
 ### Let's connect:
