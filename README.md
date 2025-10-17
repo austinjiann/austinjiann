@@ -1,29 +1,28 @@
-### I'm Austin Jian
-* I build cool things and post on social media  
-* I'm Seeking summer 2026 internships
+# 👋 Hey, I’m Austin Jian
 
-### I'm currently:
-* Studying computer science at the University of Waterloo  
-* Building PlayCreate (8 million+ views on social media, 1000+ users, partnered with 4 basketball clubs)  
-  
-👇 learn more about my past experiences
-### Let's connect:
-[personal website](https://austinjian.ca/) | [twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
+🎓 **Computer Science @ University of Waterloo**  
+💡 **Building [PlayCreate](https://playcreate.ai)** — 8M+ views, 1000+ users, partnered with 4 basketball clubs  
+🚀 **Seeking Summer 2026 internships**
 
+---
 
+### 🧠 About Me
+I’m passionate about building projects that blend **AI, sports, and design** — tools that make creativity and performance easier for everyone.  
+Outside of code, I love exploring new tech, posting what I build online, and connecting with others building cool stuff.
 
+---
 
-<!--
-**austinjiann/austinjiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Current Projects
+- 🏀 **PlayCreate:** AI-powered sports strategy tool with tactical animations & coaching workflows  
+- 🧩 **LeetMinder:** A LeetCode accountability tool with streaks & community support  
+- 🌿 **Plant Hopper:** Automated greenhouse simulator with 3D visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+[💻 Website](https://austinjian.ca) | [🐦 Twitter](https://x.com/austinjian_) | [💼 LinkedIn](https://www.linkedin.com/in/austin-jian)
+
+---
+
+> “Build things that make people say *wait, you made that?*”
+
