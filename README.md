@@ -13,9 +13,10 @@
 ---
 
 ### 🌐 Connect With Me
-[💻 Website](https://austinjian.ca) | [🐦 Twitter](https://x.com/austinjian_) | [💼 LinkedIn](https://www.linkedin.com/in/austin-jian)
+[Website](https://austinjian.ca) | [Twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
 
 ---
+![](https://komarev.com/ghpvc/?username=austinjiann&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
