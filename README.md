@@ -1,6 +1,6 @@
 # Austin Jian
 
-- **Computer Science @ University of Waterloo**  
+- **Computer Science @ [University of Waterloo](https://uwaterloo.ca)**  
 - **Building [PlayCreate](https://tryplaycreate.com)** — 8M+ views, 1000+ users, partnered with 4 basketball clubs  
 - **Seeking Summer 2026 internships**
 
