@@ -5,7 +5,7 @@
 
 ---
 ### What I've built
-- **[PlayCreate:](https://tryplaycreate.com)** Traditional coaching/tactic boards reinvented with AI, 8M+ views on social media, 1000+ users, partnered with 4 basketball clubs
+- **[PlayCreate:](https://tryplaycreate.com)** Traditional coaching boards reinvented with AI (8M+ views on social media, 1000+ users, partnered with basketball clubs)
 - **Plant Hopper:** Automated greenhouse simulator with 3D visualization
 - **Patchy:** AI agent to patch all web security issues in your GitHub repo with the click of a button
 
