@@ -1,5 +1,5 @@
 # Austin Jian
----
+
 - **Computer Science @ University of Waterloo**  
 - **Building [PlayCreate](https://tryplaycreate.com)** — 8M+ views, 1000+ users, partnered with 4 basketball clubs  
 - **Seeking Summer 2026 internships**
@@ -15,7 +15,6 @@
 ### Connect With Me
 [Website](https://austinjian.ca) | [Twitter](https://x.com/austinjian_) | [LinkedIn](https://www.linkedin.com/in/austin-jian)
 
----
 ![](https://komarev.com/ghpvc/?username=austinjiann&label=Profile%20views&color=0e75b6&style=flat)
 
 
