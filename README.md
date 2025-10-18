@@ -1,12 +1,11 @@
 # Austin Jian
 
 - **Computer Science @ [University of Waterloo](https://uwaterloo.ca)**  
-- **Building [PlayCreate](https://tryplaycreate.com)** — 8M+ views, 1000+ users, partnered with 4 basketball clubs  
 - **Seeking Summer 2026 internships**
 
 ---
 ### What I've built
-- **PlayCreate:** Traditional coaching/tactic boards reinvented with AI
+- **[PlayCreate:](https://tryplaycreate.com)** Traditional coaching/tactic boards reinvented with AI, 8M+ views on social media, 1000+ users, partnered with 4 basketball clubs
 - **Plant Hopper:** Automated greenhouse simulator with 3D visualization
 - **Patchy:** AI agent to patch all web security issues in your GitHub repo with the click of a button
 
