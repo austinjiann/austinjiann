@@ -1,5 +1,5 @@
 # austin jian
-seeking summer 2026 internships  
+seeking summer 2026 internships and winter 2026 remote
 computer science @ [university of waterloo](https://uwaterloo.ca)  
 
 [website](https://austinjian.ca) • [twitter](https://x.com/austinjian_) • [linkedIn](https://www.linkedin.com/in/austin-jian) • austin.jian@uwaterloo.ca  
