@@ -1,5 +1,5 @@
 # austin jian
-seeking summer 2026 internships and winter 2026 remote 
+seeking summer 2026 internships
 
 computer science @ [university of waterloo](https://uwaterloo.ca)  
 
